@@ -2,3 +2,4 @@
 
 2- Usando a ferramenta tree da sci-kit learn, crie uma árvore de decisão usando a base de dados. Além disso, gere uma visualização da árvore gerada usando a ferramenta graphviz.
 
+3- Crie um classificador naive bayes usando a função GaussianNB.
